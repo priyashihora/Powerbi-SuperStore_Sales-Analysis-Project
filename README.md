@@ -44,7 +44,7 @@ The **Superstore Sales Analytics Dashboard** is an interactive **Power BI** repo
 This project is designed to:
 - 📊 Convert raw sales data into clear, visual business insights
 - 🧹 Practice data cleaning and transformation using **Power Query**
-- 🧮 Create **KPI measures** using **DAX**
+- 🧮 Create **KPI measures** 
 - 🎨 Build a clean, professional and interactive dashboard layout
 
 ---
