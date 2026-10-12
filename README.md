@@ -4,7 +4,6 @@
 ### *Interactive Power BI Dashboard for Sales, Profit & Performance Analysis*
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![DAX](https://img.shields.io/badge/DAX-Measures-CC0000?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dax/)
 [![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Cleaning-0078D4?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://powerbi.microsoft.com/)
 [![Dataset](https://img.shields.io/badge/Dataset-Superstore%20CSV-4CAF50?style=for-the-badge&logo=kaggle&logoColor=white)](#-dataset)
 [![Status](https://img.shields.io/badge/Status-Completed-9C27B0?style=for-the-badge)](#)
