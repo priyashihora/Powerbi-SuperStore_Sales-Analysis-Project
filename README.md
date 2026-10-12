@@ -10,7 +10,7 @@
 
 <br/>
 
-> *"Data tab bolta hai jab dashboard sahi kahani sunata hai."* 📊
+> *"Data speaks when the dashboard tells the right story."* 📊
 
 </div>
 
